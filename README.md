@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Marcus(MAxisauruss)</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 ---
-🎓 **Bachelor of Computing Student** at [Belgium Campus](https://www.belgiumcampus.ac.za/)  
+🎓 **Bachelor of Computing Student** at [Belgium Campus](https://www.belgiumcampus.ac.za/) 
+
 📍 Johannesburg, Gauteng, South Africa  
 📅 Graduating February 2028
 ## 💻 About Me
+
 
 I'm a passionate and motivated computing student with a focus on Information Technology. I'm actively building my skills in software development, system design, and problem-solving. My goal is to create meaningful digital solutions and grow as a developer through continuous learning and collaboration.
 
