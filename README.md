@@ -1,37 +1,45 @@
-<h1 align="center">Hi 👋, I'm Marcus(MAxisauruss)</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-🎓 Bachelor of Computing Student at [Belgium Campus](https://www.belgiumcampus.ac.za/) 
+###
 
-📍 Johannesburg, Gauteng, South Africa  
-📅 Graduating February 2028
-## 💻 About Me
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
+###
 
-I'm a passionate and motivated computing student with a focus on Information Technology. I'm actively building my skills in software development, system design, and problem-solving. My goal is to create meaningful digital solutions and grow as a developer through continuous learning and collaboration.
+<h2 align="left">About me</h2>
 
----
+###
 
+<p align="left">I'm a passionate and motivated computing student with a focus on Information Technology. I'm actively building my skills in software development, system design, and problem-solving. My goal is to create meaningful digital solutions and grow as a developer through continuous learning and collaboration.<br><br>🎓 Bachelor of Computing Student at [Belgium Campus](https://www.belgiumcampus.ac.za/) <br>📍 Johannesburg, Gauteng, South Africa  <br>📅 Graduating February 2028---<br>📫 Contact Me<br><br>- 📧 Email: [marcusswanepoel3@gmail.com](mailto:marcusswanepoel3@gmail.com)  <br>- 🔗 LinkedIn: [marcus-swanepoel](https://www.linkedin.com/in/marcus-swanepoel-559b032ab)  <br>- 📱 Mobile: 063 278 9007 (ZA)<br>---<br>📚 Education<br><br>**Bachelor of Computing, Information Technology**  <br>*Belgium Campus*  <br>_February 2024 - February 2028_<br>---</p>
 
-<p align="left">
-📫 Contact Me
+###
 
-- 📧 Email: [marcusswanepoel3@gmail.com](mailto:marcusswanepoel3@gmail.com)  
-- 🔗 LinkedIn: [marcus-swanepoel](https://www.linkedin.com/in/marcus-swanepoel-559b032ab)  
-- 📱 Mobile: 063 278 9007 (ZA)
+<h2 align="left">I code with</h2>
 
----
-</p>
-📚 Education
+###
 
-**Bachelor of Computing, Information Technology**  
-*Belgium Campus*  
-_February 2024 - February 2028_
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
 
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxisauruss&show_icons=true&locale=en&layout=compact" alt="maxisauruss" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAxisauruss/MAxisauruss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAxisauruss/MAxisauruss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MAxisauruss/MAxisauruss/output/pacman-contribution-graph.svg">
+</picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxisauruss&show_icons=true&locale=en" alt="maxisauruss" /></p>
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MAxisauruss&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
