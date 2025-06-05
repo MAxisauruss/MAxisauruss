@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 
 🎓 Bachelor of Computing Student at [Belgium Campus](https://www.belgiumcampus.ac.za/) 
-
 📍 Johannesburg, Gauteng, South Africa  
 📅 Graduating February 2028
 ## 💻 About Me
@@ -14,7 +13,7 @@ I'm a passionate and motivated computing student with a focus on Information Tec
 
 
 <p align="left">
-  ## 📫 Contact Me
+📫 Contact Me
 
 - 📧 Email: [marcusswanepoel3@gmail.com](mailto:marcusswanepoel3@gmail.com)  
 - 🔗 LinkedIn: [marcus-swanepoel](https://www.linkedin.com/in/marcus-swanepoel-559b032ab)  
