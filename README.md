@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Marcus and I'm a software developer , from South Africa</p>
 
 ###
 
@@ -35,11 +35,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAxisauruss/MAxisauruss/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MAxisauruss/MAxisauruss/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MAxisauruss&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
 ###
