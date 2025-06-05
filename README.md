@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a passionate and motivated computing student with a focus on Information Technology. I'm actively building my skills in software development, system design, and problem-solving. My goal is to create meaningful digital solutions and grow as a developer through continuous learning and collaboration.<br><br>🎓 Bachelor of Computing Student at [Belgium Campus](https://www.belgiumcampus.ac.za/) <br>📍 Johannesburg, Gauteng, South Africa  <br>📅 Graduating February 2028---<br>📫 Contact Me<br><br>- 📧 Email: [marcusswanepoel3@gmail.com](mailto:marcusswanepoel3@gmail.com)  <br>- 🔗 LinkedIn: [marcus-swanepoel](https://www.linkedin.com/in/marcus-swanepoel-559b032ab)  <br>- 📱 Mobile: 063 278 9007 (ZA)<br>---<br>📚 Education<br><br>**Bachelor of Computing, Information Technology**  <br>*Belgium Campus*  <br>_February 2024 - February 2028_<br>---</p>
+<p align="left">I'm a passionate and motivated computing student with a focus on Information Technology. I'm actively building my skills in software development, system design, and problem-solving. My goal is to create meaningful digital solutions and grow as a developer through continuous learning and collaboration.<br><br>🎓 Bachelor of Computing Student at [Belgium Campus](https://www.belgiumcampus.ac.za/) <br>📍 Johannesburg, Gauteng, South Africa  <br>📅 Graduating February 2028---<br>📫 Contact Me<br><br>- 📧 Email: [marcusswanepoel3@gmail.com](mailto:marcusswanepoel3@gmail.com)  <br>- 🔗 LinkedIn: [marcus-swanepoel](https://www.linkedin.com/in/marcus-swanepoel-559b032ab) <br>---<br>📚 Education<br><br>**Bachelor of Computing, Information Technology**  <br>*Belgium Campus*  <br>_February 2024 - February 2028_<br>---</p>
 
 ###
 
