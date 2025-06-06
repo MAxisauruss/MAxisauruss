@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marcus and I'm a software developer , from South Africa</p>
+<p align="left">My name is Marcus and I'm studying to become a software developer , I am from South Africa</p>
 
 ###
 
